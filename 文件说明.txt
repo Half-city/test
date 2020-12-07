@@ -6,3 +6,5 @@ linkage.php  配合index.php根据传递的父id获取下一级的所有数据
 SingleCase.php    单例模式连接数据库
 recursion.php     运用递归实现下拉框层级展示
 recursionLink.php  运用递归实现导航栏面包屑展示  示例：图片>美女图片>日韩明星>日本AV
+middleware.php 	  laravel中间件原理实现
+StandardLibrary.php  php标准库简单运用
