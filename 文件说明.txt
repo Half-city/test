@@ -1,0 +1,8 @@
+acid.php    讲述了自动加载autoload以及sql_auroload_regisrer两个函数以及pdo实现数据库事务操作
+click.php    讲述了jquery实现即点即改效果   利用ajax实现局部刷新
+updataStatus.php  配合click.php更改数据库的操作
+index.php   讲述了三联动的实现效果
+linkage.php  配合index.php根据传递的父id获取下一级的所有数据
+SingleCase.php    单例模式连接数据库
+recursion.php     运用递归实现下拉框层级展示
+recursionLink.php  运用递归实现导航栏面包屑展示  示例：图片>美女图片>日韩明星>日本AV
